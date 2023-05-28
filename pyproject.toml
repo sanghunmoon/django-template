@@ -12,6 +12,7 @@ django = "^4.2.1"
 djangorestframework = "^3.14.0"
 uvicorn = "^0.22.0"
 python-dotenv = "^1.0.0"
+django-cacheops = "^7.0.1"
 
 
 [build-system]
